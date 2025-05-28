@@ -13,7 +13,7 @@ Once Used, Automaticly Running 💨, Less Fault ✅!
 cd /path/to/your/image/directory
 ```
 ```shell
-git clone && cd Swift-Killer && cp index.sh ../ && cd ../ && chmod 777 ./index.sh && ./index.sh
+git clone https://github.com/Baidaidai-GFWD-origin/Swift-Killer.git && cd Swift-Killer && cp index.sh ../ && cd ../ && chmod 777 ./index.sh && ./index.sh
 ```
 
 ### Prerequisites
